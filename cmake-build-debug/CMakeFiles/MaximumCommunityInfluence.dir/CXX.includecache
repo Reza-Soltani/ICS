@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/reza/CLionProjects/MaximumCommunityInfluence/BiGraph.h
+set
+-
+
+/Users/reza/CLionProjects/MaximumCommunityInfluence/InfluenceCalculator.h
+set
+-
+vector
+-
+BiGraph.h
+/Users/reza/CLionProjects/MaximumCommunityInfluence/BiGraph.h
+
+/Users/reza/CLionProjects/MaximumCommunityInfluence/main.cpp
+iostream
+-
+vector
+-
+InfluenceCalculator.h
+/Users/reza/CLionProjects/MaximumCommunityInfluence/InfluenceCalculator.h
+BiGraph.h
+/Users/reza/CLionProjects/MaximumCommunityInfluence/BiGraph.h
+
